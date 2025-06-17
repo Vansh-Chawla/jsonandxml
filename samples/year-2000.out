@@ -1,0 +1,93 @@
+Filter year = 2000
+
+year: 2000
+category: chemistry
+Number of laureates: 3
+	- firstname: Alan
+	- surname: Heeger
+	- motivation: for the discovery and development of conductive polymers
+
+	- firstname: Alan
+	- surname: MacDiarmid
+	- motivation: for the discovery and development of conductive polymers
+
+	- firstname: Hideki
+	- surname: Shirakawa
+	- motivation: for the discovery and development of conductive polymers
+
+
+year: 2000
+category: economics
+Number of laureates: 2
+	- firstname: James J.
+	- surname: Heckman
+	- motivation: for his development of theory and methods for analyzing selective samples
+
+	- firstname: Daniel L.
+	- surname: McFadden
+	- motivation: for his development of theory and methods for analyzing discrete choice
+
+
+year: 2000
+category: literature
+Number of laureates: 1
+	- firstname: Xingjian
+	- surname: Gao
+	- motivation: for an œuvre of universal validity, bitter insights and linguistic ingenuity, which has opened new paths for the Chinese novel and drama
+
+
+year: 2000
+category: peace
+Number of laureates: 1
+	- firstname: Kim
+	- surname: Dae-jung
+	- motivation: for his work for democracy and human rights in South Korea and in East Asia in general, and for peace and reconciliation with North Korea in particular
+
+
+year: 2000
+category: physics
+Motivation: for basic work on information and communication technology
+Number of laureates: 3
+	- firstname: Zhores
+	- surname: Alferov
+	- motivation: for developing semiconductor heterostructures used in high-speed- and opto-electronics
+
+	- firstname: Herbert
+	- surname: Kroemer
+	- motivation: for developing semiconductor heterostructures used in high-speed- and opto-electronics
+
+	- firstname: Jack
+	- surname: Kilby
+	- motivation: for his part in the invention of the integrated circuit
+
+
+year: 2000
+category: medicine
+Number of laureates: 3
+	- firstname: Arvid
+	- surname: Carlsson
+	- motivation: for their discoveries concerning signal transduction in the nervous system
+
+	- firstname: Paul
+	- surname: Greengard
+	- motivation: for their discoveries concerning signal transduction in the nervous system
+
+	- firstname: Eric
+	- surname: Kandel
+	- motivation: for their discoveries concerning signal transduction in the nervous system
+
+
+
+Most frequent words in the motivation fields:
+
+	5	development
+	3	concerning
+	3	conductive
+	3	discoveries
+	3	discovery
+	3	nervous
+	3	polymers
+	3	signal
+	3	system
+	3	transduction
+

@@ -1,0 +1,33 @@
+Filter category = chemistry
+Filter year = 1980
+
+year: 1980
+category: chemistry
+Number of laureates: 3
+	- firstname: Paul
+	- surname: Berg
+	- motivation: for his fundamental studies of the biochemistry of nucleic acids, with particular regard to recombinant-DNA
+
+	- firstname: Walter
+	- surname: Gilbert
+	- motivation: for their contributions concerning the determination of base sequences in nucleic acids
+
+	- firstname: Frederick
+	- surname: Sanger
+	- motivation: for their contributions concerning the determination of base sequences in nucleic acids
+
+
+
+Most frequent words in the motivation fields:
+
+	3	acids
+	3	nucleic
+	2	base
+	2	concerning
+	2	contributions
+	2	determination
+	2	sequences
+	1	biochemistry
+	1	dna
+	1	fundamental
+

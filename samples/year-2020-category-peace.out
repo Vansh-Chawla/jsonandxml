@@ -1,0 +1,25 @@
+Filter year = 2020
+Filter category = peace
+
+year: 2020
+category: peace
+Number of laureates: 1
+	- firstname: World Food Programme
+	- surname: 
+	- motivation: for its efforts to combat hunger, for its contribution to bettering conditions for peace in conflict-affected areas and for acting as a driving force in efforts to prevent the use of hunger as a weapon of war and conflict
+
+
+
+Most frequent words in the motivation fields:
+
+	2	conflict
+	2	efforts
+	2	hunger
+	1	acting
+	1	affected
+	1	areas
+	1	bettering
+	1	combat
+	1	conditions
+	1	contribution
+

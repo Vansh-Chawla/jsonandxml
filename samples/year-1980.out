@@ -1,0 +1,84 @@
+Filter year = 1980
+
+year: 1980
+category: chemistry
+Number of laureates: 3
+	- firstname: Paul
+	- surname: Berg
+	- motivation: for his fundamental studies of the biochemistry of nucleic acids, with particular regard to recombinant-DNA
+
+	- firstname: Walter
+	- surname: Gilbert
+	- motivation: for their contributions concerning the determination of base sequences in nucleic acids
+
+	- firstname: Frederick
+	- surname: Sanger
+	- motivation: for their contributions concerning the determination of base sequences in nucleic acids
+
+
+year: 1980
+category: economics
+Number of laureates: 1
+	- firstname: Lawrence R.
+	- surname: Klein
+	- motivation: for the creation of econometric models and the application to the analysis of economic fluctuations and economic policies
+
+
+year: 1980
+category: literature
+Number of laureates: 1
+	- firstname: Czesław
+	- surname: Miłosz
+	- motivation: who with uncompromising clear-sightedness voices man's exposed condition in a world of severe conflicts
+
+
+year: 1980
+category: peace
+Number of laureates: 1
+	- firstname: Adolfo
+	- surname: Pérez Esquivel
+	- motivation: for being a source of inspiration to repressed people, especially in Latin America
+
+
+year: 1980
+category: physics
+Number of laureates: 2
+	- firstname: James
+	- surname: Cronin
+	- motivation: for the discovery of violations of fundamental symmetry principles in the decay of neutral K-mesons
+
+	- firstname: Val
+	- surname: Fitch
+	- motivation: for the discovery of violations of fundamental symmetry principles in the decay of neutral K-mesons
+
+
+year: 1980
+category: medicine
+Number of laureates: 3
+	- firstname: Baruj
+	- surname: Benacerraf
+	- motivation: for their discoveries concerning genetically determined structures on the cell surface that regulate immunological reactions
+
+	- firstname: Jean
+	- surname: Dausset
+	- motivation: for their discoveries concerning genetically determined structures on the cell surface that regulate immunological reactions
+
+	- firstname: George D.
+	- surname: Snell
+	- motivation: for their discoveries concerning genetically determined structures on the cell surface that regulate immunological reactions
+
+
+
+Most frequent words in the motivation fields:
+
+	5	concerning
+	3	acids
+	3	cell
+	3	determined
+	3	discoveries
+	3	fundamental
+	3	genetically
+	3	immunological
+	3	nucleic
+	3	reactions
+
